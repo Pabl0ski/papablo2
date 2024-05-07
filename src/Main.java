@@ -4,5 +4,7 @@ public class Main {
         System.out.println("Hola mundo, pero en español");
         System.out.println("Modificacion en la nueva rama");
          System.out.println("Modificacion en la nueva rama desde GitHub para que registre el cambio");
+                System.out.println("modificacion antes del merge en el repositorio de GitHub en la rama 2");
+
     }
 }
